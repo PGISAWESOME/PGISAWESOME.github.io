@@ -26,7 +26,11 @@ ul.links a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-ul.links a:hover, a:active {
+ul.links a:hover {
+  background-color: black;
+  color: yellow;
+}
+ ul.links a:active {
   background-color: black;
   color: yellow;
 }
