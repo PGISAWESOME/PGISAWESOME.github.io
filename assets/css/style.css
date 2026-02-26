@@ -18,7 +18,7 @@ html, body {
 }
 
 
-.links a:link {
+.links li a:link {
   background-color: white;
   color: black;
   text-align: center;
@@ -29,7 +29,7 @@ html, body {
   padding: 15px 25px;
   border: 2px solid black;
 }
-.links a:visited {
+.links li a:visited {
   background-color: white;
   color: black;
   text-align: center;
@@ -40,11 +40,11 @@ html, body {
   padding: 15px 25px;
   border: 2px solid black;
 }
-.links a:hover {
+.links li a:hover {
   background-color: black;
   color: yellow;
 }
-.links a:active {
+.links li a:active {
   background-color: black;
   color: yellow;
 }
