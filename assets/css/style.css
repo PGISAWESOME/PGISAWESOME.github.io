@@ -21,18 +21,24 @@ html, body {
 ul.links a:link {
   background-color: white;
   color: black;
-  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  width: 100px;
+  height: 35px;
+  padding: 15px 25px;
+  border: 2px solid black;
 }
 ul.links a:visited {
   background-color: white;
   color: black;
-  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  width: 100px;
+  height: 35px;
+  padding: 15px 25px;
+  border: 2px solid black;
 }
 ul.links a:hover {
   background-color: black;
