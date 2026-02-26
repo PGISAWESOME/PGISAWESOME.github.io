@@ -18,7 +18,7 @@ html, body {
 }
 
 
-a:link, a:visited {
+.links a {
   background-color: white;
   color: black;
   padding: 15px 25px;
@@ -26,12 +26,12 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-a:hover, a:active {
+.links a:hover, a:active {
   background-color: black;
   color: yellow;
 }
 
-Attributes: 
+classes: 
 
 .wrapper {
   background-color: lightpink;
