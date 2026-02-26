@@ -18,7 +18,7 @@ html, body {
 }
 
 
-ul.links a:link {
+.links a:link {
   background-color: white;
   color: black;
   text-align: center;
@@ -29,7 +29,7 @@ ul.links a:link {
   padding: 15px 25px;
   border: 2px solid black;
 }
-ul.links a:visited {
+.links a:visited {
   background-color: white;
   color: black;
   text-align: center;
@@ -40,11 +40,11 @@ ul.links a:visited {
   padding: 15px 25px;
   border: 2px solid black;
 }
-ul.links a:hover {
+.links a:hover {
   background-color: black;
   color: yellow;
 }
- ul.links a:active {
+.links a:active {
   background-color: black;
   color: yellow;
 }
