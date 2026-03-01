@@ -19,32 +19,34 @@ html, body {
 
 
 .links li a:link {
+  display: inline-block;
   background-color: white;
   color: black;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   width: 100px;
   height: 35px;
   padding: 15px 25px;
   border: 2px solid black;
 }
 .links li a:visited {
+  display: inline-block;
   background-color: white;
   color: black;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   width: 100px;
   height: 35px;
   padding: 15px 25px;
   border: 2px solid black;
 }
 .links li a:hover {
+  display: inline-block;
   background-color: black;
   color: yellow;
 }
 .links li a:active {
+  display: inline-block;
   background-color: black;
   color: yellow;
 }
