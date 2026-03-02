@@ -41,8 +41,8 @@ html, body {
 }
 
 .links_bar a:hover, a:active {
-  background-color: black;
-  color: yellow;
+  background-color: blue;
+  color: white;
 }
 
 
