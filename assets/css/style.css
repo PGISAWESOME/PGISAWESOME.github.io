@@ -18,7 +18,7 @@ html, body {
 }
 
 
-.links a:link, a:visited {
+a:link, a:visited {
   display: inline-block;
   background-color: white;
   color: black;
@@ -30,25 +30,11 @@ html, body {
   border: 2px solid black;
 }
 
-.links a:hover, a:active {
+a:hover, a:active {
   background-color: black;
   color: yellow;
 }
 
-a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px solid green;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: green;
-  color: white;
-}
 
 classes: 
 
