@@ -40,11 +40,23 @@ classes:
 
 .wrapper {
   background-color: lightblue;
-  
   max-width: 50%;
   display: flex;
   flex-direction: row;
   height: 80%;
+}
+
+.top {
+  background-color: lightblue;
+  margin: 5px;
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-style: double;
+  border-color: black;
+  border-width: 5px;
 }
 
 .left, .right {
@@ -55,6 +67,9 @@ classes:
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-style: single;
+  border-color: black;
+  border-width: 2px;
 }
 
 .left {
