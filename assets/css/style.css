@@ -50,7 +50,7 @@ classes:
 
 .wrapper {
   background-color: lightblue;
-  max-width: 50%;
+  max-width: 100%;
   display: flex;
   flex-direction: row;
   height: 80%;
