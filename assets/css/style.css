@@ -29,6 +29,7 @@ html, body {
 }
 
 .links_bar a:link, a:visited {
+  display: block;
   background-color: white;
   color: black;
   text-align: center;
