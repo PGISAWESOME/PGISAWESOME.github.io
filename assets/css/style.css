@@ -25,7 +25,7 @@ ul {
   background-color: black;
 }
 
-a:link, a:visited {
+.links a:link, a:visited {
   display: inline-block;
   background-color: white;
   color: black;
@@ -37,7 +37,7 @@ a:link, a:visited {
   border: 2px solid black;
 }
 
-a:hover, a:active {
+.links a:hover, a:active {
   background-color: black;
   color: yellow;
 }
