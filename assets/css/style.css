@@ -24,11 +24,9 @@ html, body {
   overflow: hidden;
   background-color: black;
 }
-.links_bar li {
-  float:left
-}
 
 .links_bar a:link, a:visited {
+  float:left;
   display: inline-block;
   background-color: white;
   color: black;
@@ -41,6 +39,7 @@ html, body {
 }
 
 .links_bar a:hover, a:active {
+  float:left;
   background-color: blue;
   color: white;
 }
