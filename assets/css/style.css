@@ -39,9 +39,9 @@ html, body {
   color: black;
   text-align: center;
   text-decoration: none;
-  width: 100px;
-  height: 35px;
-  padding: 15px 25px;
+  width: 30px;
+  height: 30px;
+  padding: 15px 15px;
   border: 2px solid black;
 }
 
@@ -65,7 +65,7 @@ classes:
 .links_bar {
   background-color: lightblue;
   margin: 5px;
-  max-width: 800px;
+  max-width: 1000px;
   flex: 1;
   display: flex;
   flex-direction: column;
